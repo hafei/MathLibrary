@@ -1,0 +1,6 @@
+# ninja log v5
+90	197	7379123744921812	libMathLibrary.dll.a	8f00e02e0b741ee9
+2	89	7379123743874439	CMakeFiles/MathLibrary.dir/MathLibrary.cpp.obj	9481d3d646f62ee7
+1	401	7379116334404988	CMakeFiles/MathLibrary.dir/library.cpp.obj	9fede962edc9e56e
+90	197	7379123744921812	libMathLibrary.dll	8f00e02e0b741ee9
+2	307	7379124646963697	build.ninja	9cd5d223d41514d2
